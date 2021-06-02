@@ -20,7 +20,7 @@
 * 使用 requests 抓取網頁原始檔。
 * 使用 BeautifulSoup 剖析網頁原始檔。
 * 說明在 BeautifulSoup 裡面如何使用 CSS Selector 來選取標籤。
-* Chrome Dev Tools 的使用簡介。
+* Chrome DevTools 的使用簡介。
 * Selenium 使用簡介。
 * 如何剖析不同格式的檔案？
 
