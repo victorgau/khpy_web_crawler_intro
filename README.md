@@ -8,6 +8,8 @@
 
 ## 課程內容：
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_web_crawler_intro/)
+
 簡單介紹 requests, beautifulsoup跟selenium的使用。
 
 ### 1. 文件導覽
