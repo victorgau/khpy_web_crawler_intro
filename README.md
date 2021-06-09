@@ -23,15 +23,19 @@
 
 #### 套件及模組說明
 
-|模組, 套件, 工具|說明|
+|模組, 套件|說明|
 |:--|:--|
 |requests|很多人用來做HTTP request的套件。|
 |BeautifulSoup|很多人用來做HTML原始碼剖析的套件。|
 |Selenium|很多人用來做自動化網頁測試的套件。|
-|Selenium IDE|可以錄製使用者的操作，轉換成Python程式。|
-|Katalon|Katalon也可以錄製使用者的操作，轉換成Python程式。之前，Selenium IDE曾經移除export to python code的功能，如果再發生，可以再改用Katalon來錄製使用者操作。|
 |json|用來做json文件剖析的內建模組。|
 |csv|用來讀寫csv文件的內建模組。|
+
+|工具|說明|
+|:--|:--|
+|Selenium IDE|可以錄製使用者的操作，轉換成Python程式。|
+|Katalon|Katalon也可以錄製使用者的操作，轉換成Python程式。之前，Selenium IDE曾經移除export to python code的功能，如果再發生，可以再改用Katalon來錄製使用者操作。|
+|Google DevTools|可以用來檢視本地端跟伺服器端的資料傳輸的開發者工具。|
 
 ### 2. 實作引導
 
