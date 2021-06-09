@@ -16,15 +16,37 @@
 
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
 * [Beautiful Soup 4.2.0 文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
+* [Selenium with Python](https://selenium-python.readthedocs.io/)
+* [Web Drivers](https://selenium-python.readthedocs.io/installation.html#drivers)
+* [Selenium IDE](https://www.selenium.dev/selenium-ide/)
+* [Katalon](https://www.katalon.com/)
+
+#### 套件及模組說明
+
+|模組, 套件, 工具|說明|
+|:--|:--|
+|requests|很多人用來做HTTP request的套件。|
+|BeautifulSoup|很多人用來做HTML原始碼剖析的套件。|
+|Selenium|很多人用來做自動化網頁測試的套件。|
+|Selenium IDE|可以錄製使用者的操作，轉換成Python程式。|
+|Katalon|Katalon也可以錄製使用者的操作，轉換成Python程式。之前，Selenium IDE曾經移除export to python code的功能，如果再發生，可以再改用Katalon來錄製使用者操作。|
+|json|用來做json文件剖析的內建模組。|
+|csv|用來讀寫csv文件的內建模組。|
 
 ### 2. 實作引導
 
-* 使用 requests 抓取網頁原始檔。
-* 使用 BeautifulSoup 剖析網頁原始檔。
-* 說明在 BeautifulSoup 裡面如何使用 CSS Selector 來選取標籤。
+* requests 使用簡介
+  * 使用 requests 抓取網頁原始檔。
+  * 使用 requests 抓取圖片。
+  * 使用 requests 抓取pdf檔。
+  * 使用 requests 抓取json檔，並剖析json檔。
+  * 使用 reqeusts 抓取csv檔，並剖析csv檔。
+* BeautifulSoup 使用簡介
+  * 使用 BeautifulSoup 剖析HTML檔 (網頁原始檔)。
+  * 使用 BeautifulSoup 剖析XML檔。
+  * 說明在 BeautifulSoup 裡面如何使用 CSS Selector 來選取標籤。
 * Chrome DevTools 的使用簡介。
 * Selenium 使用簡介。
-* 如何剖析不同格式的檔案？
 
 ### 3. 自我挑戰
 
@@ -37,7 +59,7 @@
 * 讀取圖片
 * 讀取pdf檔
 
-### 套件安裝：
+#### 套件安裝：
 
 * 安裝 requests
 
