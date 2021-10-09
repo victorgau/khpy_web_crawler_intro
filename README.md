@@ -23,6 +23,8 @@
 
 #### 套件及模組說明
 
+* [Web簡介 - 投影片](https://bit.ly/3pz6wiD)
+
 |模組, 套件|說明|
 |:--|:--|
 |requests|很多人用來做HTTP request的套件。|
