@@ -23,7 +23,8 @@
 
 #### 套件及模組說明
 
-* [Web簡介 - 投影片](https://bit.ly/3pz6wiD)
+* [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
+* [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
 
 |模組, 套件|說明|
 |:--|:--|
