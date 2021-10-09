@@ -39,7 +39,7 @@
 |:--|:--|
 |Selenium IDE|可以錄製使用者的操作，再轉換成Python程式的工具。|
 |Katalon|Katalon也可以錄製使用者的操作，再轉換成Python程式。之前，Selenium IDE曾經移除export to python code的功能，如果再發生，可以再改用Katalon來錄製使用者的操作。|
-|Google DevTools|可以用來檢視本地端跟伺服器端的資料傳輸的開發者工具。|
+|Chrome DevTools|可以用來檢視本地端跟伺服器端的資料傳輸的開發者工具。|
 
 ### 2. 實作引導
 
