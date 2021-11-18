@@ -2,7 +2,7 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](http://www.victorgau.com)
+* [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
@@ -11,6 +11,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_web_crawler_intro/)
 
 簡單介紹 requests, beautifulsoup跟selenium的使用。
+
+### 投影片及相關連結
+
+* [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
+* [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
+* [爬蟲練習網站](https://victorgau.github.io/khpy_web_intro/)
 
 ### 1. 文件導覽
 
@@ -22,10 +28,6 @@
 * [Katalon](https://www.katalon.com/)
 
 #### 套件及模組說明
-
-* [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
-* [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
-* [爬蟲練習網站](https://victorgau.github.io/khpy_web_intro/)
 
 |模組, 套件|說明|
 |:--|:--|
